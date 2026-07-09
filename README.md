@@ -2,7 +2,7 @@
 
 - I help B2B companies (re)build their GTM operating system to generate more revenue from the same resources.
 - My work connects finance, GTM, and systems to reduce friction and help revenue teams work smarter.
-- I’ve led RevOps, Sales Ops, GTM strategy, and Corporate Development across companies from ~$40M to $1B+ in revenue, including Transfr, Mural, Automation Anywhere, Pegasystems, and athenahealth.
+- I’ve led RevOps, Sales Ops, GTM strategy, and Corporate Development across companies from ~$40M to $1B+ in revenue.
 - I’m currently advising B2B companies on GTM and building AI-enabled applications for modern GTM teams.
 - I love to speak with people who are deploying agents for B2B businesses.
 - Learn more at [kgilbride.com/aboutme](https://kgilbride.com/aboutme/) or reach me at kyle@kgilbride.com.

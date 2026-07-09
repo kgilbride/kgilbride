@@ -1,4 +1,4 @@
-## Hi there, I'm Kyle 👋 <img width="32" height="32" alt="Kyle cartoon ChatGPT Image Jul 9, 2026, 06_55_28 PM" src="https://github.com/user-attachments/assets/9291a669-b835-47d9-bebf-7b18ebe2c957" />
+## Hi there, I'm Kyle <img width="32" height="32" alt="Kyle cartoon ChatGPT Image Jul 9, 2026, 06_55_28 PM" src="https://github.com/user-attachments/assets/9291a669-b835-47d9-bebf-7b18ebe2c957" />
 
 
 I help B2B companies (re)build their go-to-market operating system so they generate more revenue from the same resources. I do this by connecting finance, GTM, operations, and systems into an operating model that fixes friction points and helps revenue teams work smarter. 

@@ -1,4 +1,4 @@
-## Hi there, I'm Kyle <img width="32" height="32" alt="Kyle cartoon ChatGPT Image Jul 9, 2026, 06_55_28 PM" src="https://github.com/user-attachments/assets/9291a669-b835-47d9-bebf-7b18ebe2c957" />
+## Hi, I'm Kyle <img width="32" height="32" alt="Kyle cartoon ChatGPT Image Jul 9, 2026, 06_55_28 PM" src="https://github.com/user-attachments/assets/9291a669-b835-47d9-bebf-7b18ebe2c957" />
 
 - I help B2B companies (re)build their GTM operating system to generate more revenue from the same resources.
 - My work connects finance, GTM, and systems to reduce friction and help revenue teams work smarter.
